@@ -40,4 +40,5 @@
 <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <!-- Jogo da Cobrinha com o seu github fiz uma altera e adicionei os seus commits, estava sendo utilizado o da Rafaella Ballerini -->
+![github-user-contribution](https://user-images.githubusercontent.com/79938668/198181205-4f953b1b-9017-4beb-ad19-8b2f47e78bb0.svg)
